@@ -1,7 +1,7 @@
 # Pesmos---Graphing-Calculator
 A simple multi-dimensional graphing calculator. 
 
-##This file is important and will be updated throughout the full development cycle of Pesmos.##
+##This file is important and will be updated throughout the full development cycle of Pesmos##
 
 NOTE: This is the pre-alpha release of Pesmos, a multi-dimensional function grapher, so some bugs may be present. Report them to the dev to make sure they are fixed. 
 
@@ -30,4 +30,4 @@ FEATURES:
 - Robust error handling and “safe” array sanitization.
 
 
-##To download specific versions of this program, avail the different branches given (version specifications are given).##
+##To download specific versions of this program, avail the different branches given (version specifications are given)##
