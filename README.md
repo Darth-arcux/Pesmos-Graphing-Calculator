@@ -5,7 +5,7 @@ A simple multi-dimensional graphing calculator.
 # THIS FILE IS IMPORTANT AND WILL BE UPDATED THROUGHOUT THE FULL DEVELOPMENT CYCLE OF PESMOS!!! #
 
 
-# NOTE: This is the Latest (v1.1) release of Pesmos, a multi-dimensional function grapher, so some bugs may be present. Report them to the dev to make sure they are fixed. #
+# NOTE: This is the pre-alpha (v1.0) release of Pesmos, a multi-dimensional function grapher, so some bugs may be present. Report them to the dev to make sure they are fixed. #
 
 
 # UTILISATION: #
@@ -27,6 +27,7 @@ For now, just bug fixing, adding icons to some places (like the Taskbar icon) an
 - CSV import/export and figure saving.
 - Theme switcher (default/clam) and toggleable grid/axes.
 - Robust error handling and “safe” array sanitization.
+
 
 # NOTE 2: #
 # To download specific versions of this program, avail the different branches given (version specifications are given), otherwise download the latest version of the program from the "Latest-Release" branch. #
