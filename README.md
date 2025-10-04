@@ -1,6 +1,7 @@
 # Pesmos-Graphing-Calculator #
 A simple multi-dimensional graphing calculator. 
 
+
 # THIS FILE IS IMPORTANT AND WILL BE UPDATED THROUGHOUT THE FULL DEVELOPMENT CYCLE OF PESMOS!!! #
 
 
@@ -27,10 +28,9 @@ For now, just bug fixing, adding icons to some places (like the Taskbar icon) an
 - Theme switcher (default/clam) and toggleable grid/axes.
 - Robust error handling and “safe” array sanitization.
 
+
 # NOTE 2: #
-# To download specific versions of this program, avail the different branches given (version specifications are given) #
-# Otherwise download the latest version of the program from the "Latest-Release" branch #
-
-Check attached licenses in each version of the program for ease of access. 
+# To download specific versions of this program, avail the different branches given (version specifications are given), otherwise download the latest version of the program from the "Latest-Release" branch. #
 
 
+# NOTE 3: Check attached licenses in each version of the program for ease of access. #
