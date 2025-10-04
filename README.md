@@ -15,7 +15,7 @@ A simple multi-dimensional graphing calculator.
 
 
 # PLANNED UPDATES: #
-For now, just bug fixing, adding icons to some places (like the Taskbar icon) and adding an interactable keyboard to make adding various stuff like sqrt easier. 
+For now, just bug fixing and adding an interactable keyboard to make adding various stuff like sqrt easier. 
 
 
 # FEATURES: #
