@@ -5,7 +5,7 @@ A simple multi-dimensional graphing calculator.
 # THIS FILE IS IMPORTANT AND WILL BE UPDATED THROUGHOUT THE FULL DEVELOPMENT CYCLE OF PESMOS!!! #
 
 
-# NOTE: This is the pre-alpha release of Pesmos, a multi-dimensional function grapher, so some bugs may be present. Report them to the dev to make sure they are fixed. #
+# NOTE: This is the pre-alpha (v1.0) release of Pesmos, a multi-dimensional function grapher, so some bugs may be present. Report them to the dev to make sure they are fixed. #
 
 
 # UTILISATION: #
