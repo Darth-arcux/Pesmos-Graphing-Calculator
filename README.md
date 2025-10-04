@@ -29,5 +29,4 @@ FEATURES:
 - Theme switcher (default/clam) and toggleable grid/axes.
 - Robust error handling and “safe” array sanitization.
 
-
 ##To download specific versions of this program, avail the different branches given (version specifications are given)##
